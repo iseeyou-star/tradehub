@@ -1,0 +1,1 @@
+export default function About(){return <div className='min-h-screen text-white container px-6 py-12'><h1 className='text-3xl font-bold mb-4'>About TradeHub Store</h1><p className='text-gray-300'>Demo frontend storefront.</p></div>}
